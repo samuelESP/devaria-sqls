@@ -1,0 +1,1 @@
+# Repositório referente aos scripts SQL do banco de dados da Devaria
